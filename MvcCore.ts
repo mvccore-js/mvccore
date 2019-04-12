@@ -1,4 +1,6 @@
 import "./MvcCore/Application";
 import "./MvcCore/Config";
 
-export default MvcCore;
+var MvcCoreLocal = MvcCore;
+
+export { MvcCoreLocal };
