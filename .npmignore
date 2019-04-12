@@ -1,5 +1,7 @@
-.vs
-bin
-node_modules
+.vs/
+bin/
+node_modules/
+src/
 tsconfig.json
-src
+*.njsproj
+*.njsproj.user
