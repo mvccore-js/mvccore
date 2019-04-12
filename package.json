@@ -1,6 +1,6 @@
 {
   "name": "@mvccore/mvccore",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "MvcCore",
   "main": "./lib/MvcCore.js",
   "types": "./lib/MvcCore.d.ts",
