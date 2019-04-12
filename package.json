@@ -1,0 +1,19 @@
+{
+  "name": "@mvccore/mvccore",
+  "version": "0.0.0",
+  "description": "MvcCore",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "devDependencies": {
+    "@types/node": "^8.0.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvccore-js/mvccore.git"
+  },
+  "author": {
+    "name": "Tom Flídr",
+    "email": "tomflidr@gmail.com",
+    "url": "https://github.com/tomFlidr"
+  },
+}
