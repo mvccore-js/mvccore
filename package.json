@@ -1,12 +1,17 @@
 {
   "name": "@mvccore/mvccore",
-  "version": "0.0.0",
+  "version": "0.0.3",
   "description": "MvcCore",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "main": "./lib/MvcCore.js",
+  "types": "./lib/MvcCore.d.ts",
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^8.0.14"
   },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "BSD-3",
   "repository": {
     "type": "git",
     "url": "https://github.com/mvccore-js/mvccore.git"

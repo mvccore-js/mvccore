@@ -331,3 +331,4 @@ ASALocalRun/
 
 *.njsproj
 *.njsproj.user
+npm-publish.cmd
