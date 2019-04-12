@@ -1,2 +1,5 @@
+.vs
+bin
+node_modules
 tsconfig.json
 src
